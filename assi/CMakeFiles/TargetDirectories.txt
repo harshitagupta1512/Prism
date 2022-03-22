@@ -1,9 +1,0 @@
-/home/harshitagupta/CG/boilerplate/assi/CMakeFiles/rebuild_cache.dir
-/home/harshitagupta/CG/boilerplate/assi/CMakeFiles/edit_cache.dir
-/home/harshitagupta/CG/boilerplate/assi/CMakeFiles/glad.dir
-/home/harshitagupta/CG/boilerplate/assi/CMakeFiles/app.dir
-/home/harshitagupta/CG/boilerplate/assi/libraries/glfw/CMakeFiles/rebuild_cache.dir
-/home/harshitagupta/CG/boilerplate/assi/libraries/glfw/CMakeFiles/edit_cache.dir
-/home/harshitagupta/CG/boilerplate/assi/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
-/home/harshitagupta/CG/boilerplate/assi/libraries/glfw/src/CMakeFiles/edit_cache.dir
-/home/harshitagupta/CG/boilerplate/assi/libraries/glfw/src/CMakeFiles/glfw.dir
